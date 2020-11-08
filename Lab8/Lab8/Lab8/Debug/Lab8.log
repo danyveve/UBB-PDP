@@ -1,0 +1,3 @@
+﻿  Lab8.cpp
+f:\pdp semester 5\labs\lab8\lab8\lab8\lab8.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab8.vcxproj -> F:\PDP SEMESTER 5\LABS\Lab8\Lab8\Debug\Lab8.exe

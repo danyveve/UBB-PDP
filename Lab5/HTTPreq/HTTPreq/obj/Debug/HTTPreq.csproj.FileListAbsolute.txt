@@ -1,0 +1,7 @@
+F:\PDP SEMESTER 5\LABS\Lab5\HTTPreq\HTTPreq\bin\Debug\HTTPreq.exe.config
+F:\PDP SEMESTER 5\LABS\Lab5\HTTPreq\HTTPreq\bin\Debug\HTTPreq.exe
+F:\PDP SEMESTER 5\LABS\Lab5\HTTPreq\HTTPreq\bin\Debug\HTTPreq.pdb
+F:\PDP SEMESTER 5\LABS\Lab5\HTTPreq\HTTPreq\obj\Debug\HTTPreq.csprojAssemblyReference.cache
+F:\PDP SEMESTER 5\LABS\Lab5\HTTPreq\HTTPreq\obj\Debug\HTTPreq.csproj.CoreCompileInputs.cache
+F:\PDP SEMESTER 5\LABS\Lab5\HTTPreq\HTTPreq\obj\Debug\HTTPreq.exe
+F:\PDP SEMESTER 5\LABS\Lab5\HTTPreq\HTTPreq\obj\Debug\HTTPreq.pdb

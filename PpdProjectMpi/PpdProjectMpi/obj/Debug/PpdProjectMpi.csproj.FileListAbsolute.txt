@@ -1,0 +1,11 @@
+F:\PDP SEMESTER 5\LABS\PpdProjectMpi\PpdProjectMpi\bin\Debug\PpdProjectMpi.exe.config
+F:\PDP SEMESTER 5\LABS\PpdProjectMpi\PpdProjectMpi\bin\Debug\PpdProjectMpi.exe
+F:\PDP SEMESTER 5\LABS\PpdProjectMpi\PpdProjectMpi\bin\Debug\PpdProjectMpi.pdb
+F:\PDP SEMESTER 5\LABS\PpdProjectMpi\PpdProjectMpi\bin\Debug\MPI.dll
+F:\PDP SEMESTER 5\LABS\PpdProjectMpi\PpdProjectMpi\bin\Debug\MPI.xml
+F:\PDP SEMESTER 5\LABS\PpdProjectMpi\PpdProjectMpi\obj\Debug\PpdProjectMpi.csprojAssemblyReference.cache
+F:\PDP SEMESTER 5\LABS\PpdProjectMpi\PpdProjectMpi\obj\Debug\PpdProjectMpi.csproj.CoreCompileInputs.cache
+F:\PDP SEMESTER 5\LABS\PpdProjectMpi\PpdProjectMpi\obj\Debug\PpdProjectMpi.csproj.CopyComplete
+F:\PDP SEMESTER 5\LABS\PpdProjectMpi\PpdProjectMpi\obj\Debug\PpdProjectMpi.exe
+F:\PDP SEMESTER 5\LABS\PpdProjectMpi\PpdProjectMpi\obj\Debug\PpdProjectMpi.pdb
+F:\PDP SEMESTER 5\LABS\PpdProjectMpi\PpdProjectMpi\bin\Debug\System.Drawing.Common.dll
