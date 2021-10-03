@@ -1,3 +1,3 @@
 # UBB-PPD
 
-Repository containing the implementation of all the assignments provided at the Parallel and Distributed Programming course from UBB.
+Repository containing example implementations for the assignments of the Parallel and Distributed Programming course from UBB.
